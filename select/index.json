@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Crazy Train",
+  "base_artist": "Ozzy Osbourne",
+  "createdAt": "2026-03-04T07:59:26.411690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/01_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Jennie Lena",
+      "has_synced": true,
+      "path": "select/02_Crazy_Train_Scott_Bradlee's_Postmodern_Jukebox_feat._Jennie_Lena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_Crazy_Train_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/04_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/05_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/06_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/07_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/08_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy Train (Explicit)",
+      "artist": "Ozzy Osborne",
+      "has_synced": true,
+      "path": "select/09_Crazy_Train_(Explicit)_Ozzy_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/10_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Forever the Sickest Kids",
+      "has_synced": false,
+      "path": "select/11_Crazy_Train_Forever_the_Sickest_Kids.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "02 - Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/12_02_-_Crazy_Train_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Osbourne,Ozzy",
+      "has_synced": true,
+      "path": "select/13_Crazy_Train_Osbourne,Ozzy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy Train",
+      "artist": "Dee Snider feat. Jason Bonham",
+      "has_synced": false,
+      "path": "select/14_Crazy_Train_Dee_Snider_feat._Jason_Bonham.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crazy Angels",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/15_Crazy_Angels_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "She Drives Me Crazy - Remastered",
+      "artist": "Fine Young Cannibals",
+      "has_synced": true,
+      "path": "select/16_She_Drives_Me_Crazy_-_Remastered_Fine_Young_Cannibals.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beautiful Crazy",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/17_Beautiful_Crazy_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Crazy",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/18_Crazy_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Crazy",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/19_Crazy_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Crazy (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/20_Crazy_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Crazy - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/21_Crazy_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Crazy (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/22_Crazy_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Crazy (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/23_Crazy_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Crazy Arms",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/24_Crazy_Arms_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Crazy For Your Love",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/25_Crazy_For_Your_Love_Exile.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Crazy Girl - Single Version",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/26_Crazy_Girl_-_Single_Version_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Crazy Girl (Single Version)",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/27_Crazy_Girl_(Single_Version)_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/28_Crazy_Little_Thing_Called_Love_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Train_Ozzy_Osbourne.txt"
+    }
+  ]
+}
